@@ -1,4 +1,4 @@
 # New-Project
 This is my first Git Repository.
 <br>
-Author - Pavan
+Author - Pavan Reddy
